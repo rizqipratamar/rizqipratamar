@@ -90,7 +90,7 @@ const rizqi = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizqipratamar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizqipratamar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqipratamar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </p>
 
