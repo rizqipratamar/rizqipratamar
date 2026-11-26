@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+Ajaib+Terminal+%F0%9F%93%88;React+19+%2B+TypeScript+%2B+Tauri+%2B+Rust;Realtime+stock+trading+for+IDX+%E2%9A%A1;Client-side+face+liveness+for+KYC+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Shipping+web+%2B+desktop+from+one+codebase" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+Ajaib+Terminal+%F0%9F%93%88;React+19+%2B+TypeScript+%2B+Tauri+%2B+Rust;Realtime+stock+trading+for+IDX+%E2%9A%A1;Client-side+face+liveness+for+KYC+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Shipping+web+%2B+desktop+from+one+codebase" alt="typing intro" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@ const rizqi = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+fast+together+%F0%9F%9A%80" alt="outro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by!;Let's+build+something+fast+together+%F0%9F%9A%80" alt="outro" />
 </p>
 
 <p align="center">
