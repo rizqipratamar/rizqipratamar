@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=200&section=header&text=Rizqi%20Pratama%20R&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Frontend%20and%20Desktop%20Engineer%20%40%20Ajaib&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="./assets/header-isometric.svg" width="100%" alt="Rizqi Pratama R, Frontend and Desktop Engineer at Ajaib" />
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ const rizqi = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizqipratamar&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric contribution graph" />
 </p>
 
 ---
